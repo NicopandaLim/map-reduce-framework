@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\shawn\Documents\Akka_getStarted\mapReduceFramework4.2\src\main\scala\client\linkCount3.scala:51:38: recursive variable end needs type[0m
+[0m[[0m[31merror[0m] [0m[0m        var end = line.indexOf("\"", end+6)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
